@@ -20,15 +20,16 @@ To run the game locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/reaction-time-game.git
 
-  ```Navigate to the project directory:
+  Navigate to the project directory:
   cd reaction-time-game
 
-  ```Install the dependencies:
+ Install the dependencies:
   npm install
 
-  ```Run the development server:
+  Run the development server:
   npm run serve
 
 Open your browser:
 
 Visit http://localhost:8080 to play the game locally.
+```
