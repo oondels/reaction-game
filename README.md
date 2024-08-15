@@ -33,12 +33,11 @@ To run the game locally, follow these steps:
  ```
 
 4. **Run the development server:**
-   
-   ```bash
+```bash
   npm run serve
   ```
 
 5. **Open your browser:**
-     ```bash
+```bash
    http://localhost:8080 to play the game locally.
    ```
